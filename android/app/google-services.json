@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384449120980",
+    "project_id": "notificationsflu",
+    "storage_bucket": "notificationsflu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384449120980:android:02aabfe8982946da20c941",
+        "android_client_info": {
+          "package_name": "com.example.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384449120980-9bsmdmko101t8gn5etna5aruvk2ttipc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyF-5dPnFHQrMr1OWnUN7YEos2Ky4E7GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384449120980-9bsmdmko101t8gn5etna5aruvk2ttipc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
